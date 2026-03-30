@@ -98,7 +98,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://x.com/i/communities/2038432090111316362", "_blank")}
+          onClick={() => window.open("https://x.com/i/communities/2038642318551785962", "_blank")}
         />
 
         {/* DEX Screener Button */}
