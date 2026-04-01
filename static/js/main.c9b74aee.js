@@ -12865,7 +12865,7 @@
                 },
                 onMouseUp: (e) => {
                   e.target.style.transform = "scale(1)";
-                },
+                }, 
                 onClick: () =>
                   window.open("https://x.com/i/communities/2038642318551785962", "_blank"),
               }), 
@@ -12878,7 +12878,7 @@
                 onMouseLeave: (e) => (e.target.style.filter = "none"),
                 onMouseDown: (e) => {
                   e.target.style.transform = n.buttonActive.transform;
-                },
+                }, 
                 onMouseUp: (e) => {
                   e.target.style.transform = "scale(1)";
                 },
