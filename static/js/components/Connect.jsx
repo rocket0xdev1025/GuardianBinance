@@ -114,7 +114,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://dexscreener.com/bsc/0x30e7529ec2fe0701fa22d6a4df1ba9da6aac4444", "_blank")}
+          onClick={() => window.open("https://dexscreener.com/bsc/0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444", "_blank")}
         />
       </div>
 
