@@ -12868,7 +12868,7 @@
                 }, 
                 onClick: () =>
                   window.open("https://x.com/i/communities/2038642318551785962", "_blank"),
-              }), 
+              }),  
               (0, a.jsx)("img", {
                 src: "/images/dexbtn.png",
                 alt: "DEX Screener",
