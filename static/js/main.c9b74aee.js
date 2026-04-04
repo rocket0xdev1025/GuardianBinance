@@ -12280,7 +12280,7 @@
         },
         s = () => {
           navigator.clipboard.writeText(
-            "0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444"
+            "0xcomingsoon"
           ),
             alert("Contract Address copied!");
         },
@@ -12447,7 +12447,7 @@
                 style: c.button,
                 onClick: () =>
                   window.open(
-                    "https://pancakeswap.finance/swap?outputCurrency=0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444",
+                    "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                     "_blank"
                   ),
                 children: "BUY NOW",
@@ -12502,7 +12502,7 @@
                       style: c.hamburgerButton,
                       onClick: () =>
                         window.open(
-                          "https://pancakeswap.finance/swap?outputCurrency=0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444",
+                          "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
                           "_blank"
                         ),
                       children: "BUY NOW",
@@ -12851,7 +12851,7 @@
                   e.target.style.transform = "scale(1)";
                 },
                 onClick: () =>
-                  window.open("https://t.me/Binancians_army", "_blank"),
+                  window.open("https://t.me/bnbguardian_entry", "_blank"),
               }),
               (0, a.jsx)("img", {
                 src: "/images/xbtn.png",
@@ -12867,7 +12867,7 @@
                   e.target.style.transform = "scale(1)";
                 }, 
                 onClick: () =>
-                  window.open("https://x.com/i/communities/2038642318551785962", "_blank"),
+                  window.open("https://x.com/bnbguardian_x", "_blank"),
               }),  
               (0, a.jsx)("img", {
                 src: "/images/dexbtn.png",
@@ -12884,7 +12884,7 @@
                 },
                 onClick: () =>
                   window.open(
-                    "https://dexscreener.com/bsc/0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444",
+                    "https://dexscreener.com/bsc/0xcomingsoon",
                     "_blank"
                   ),
               }),

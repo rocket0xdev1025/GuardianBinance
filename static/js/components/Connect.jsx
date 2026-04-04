@@ -82,7 +82,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://t.me/Binancians_army", "_blank")}
+          onClick={() => window.open("https://t.me/bnbguardian_entry", "_blank")}
         />
 
         {/* X (Twitter) Button */}
@@ -98,7 +98,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://x.com/i/communities/2038642318551785962", "_blank")}
+          onClick={() => window.open("https://x.com/bnbguardian_x", "_blank")}
         />
 
         {/* DEX Screener Button */}
@@ -114,7 +114,7 @@ const Connect = () => {
           onMouseUp={(e) => {
             e.target.style.transform = "scale(1)";
           }}
-          onClick={() => window.open("https://dexscreener.com/bsc/0xb3f2c30c5f1e9e64f04de4fa9b6c5acd41db4444", "_blank")}
+          onClick={() => window.open("https://dexscreener.com/bsc/0xcomingsoon", "_blank")}
         />
       </div>
 
